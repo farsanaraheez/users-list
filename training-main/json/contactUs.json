@@ -1,0 +1,8 @@
+{
+  "name" : "Some Name",
+  "emailAddress" : "someemail@email.com",
+  "queries" : [
+    "Query 1",
+    "Query 2"
+  ]
+}

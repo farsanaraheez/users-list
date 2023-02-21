@@ -1,0 +1,22 @@
+[
+  {
+    "userId" : 1,
+    "firstName": "Faisal Khan",
+    "lastName": "Thayub",
+    "address": {
+      "street": "Some Street",
+      "box": "403/201",
+      "city": "Some City"
+    }
+  },
+  {
+    "userId" : 2,
+    "firstName": "Faisal Khan",
+    "lastName": "Thayub",
+    "address": {
+      "street": "Some Street",
+      "box": "403/201",
+      "city": "Some City"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+.list-button{
+    background-color: #043871;
+    border-radius: 25px;
+    list-style: none;
+    padding: 12px 20px;
+    width: 100px;
+    margin: 10px 0;
+   
+}
+.list-button a{
+   
+    color: #fff;
+    text-decoration: none;
+}

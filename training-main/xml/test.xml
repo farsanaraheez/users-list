@@ -1,0 +1,18 @@
+<users>
+    <user>
+        <firstName>Faisal Khan</firstName>
+        <lastName>Thayub</lastName>
+        <address>
+            <street>Some Street</street>
+            <box>403/201</box>
+            <city>Some City</city>
+        </address>
+    </user>
+    <user>
+        <firstName>Faisal Khan</firstName>
+        <lastName>Thayub</lastName>
+        <street>Some Street</street>
+        <box>403/201</box>
+        <city>Some City</city>
+    </user>
+</users>
